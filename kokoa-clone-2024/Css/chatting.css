@@ -1,0 +1,10 @@
+#chatting-screen {
+    background-color: #1484d3;
+    height: 11000vh;
+}
+#chatting-screen .alt-header {
+    position: fixed;
+    width: 100%;
+    box-sizing: border-box;
+
+}

@@ -1,0 +1,16 @@
+.setting__setting {
+    padding-bottom: 20px 0;
+    border-bottom: var(--main-border);
+    font-size: 22px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.setting__setting i {
+    margin: 20px;
+    font-size: 22px;
+    opacity: 0.8;
+}
+.setting__setting:last-child {
+    opacity: 0.8;
+}

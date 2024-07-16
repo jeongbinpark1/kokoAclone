@@ -1,0 +1,23 @@
+.screen-header {
+    display:flex;
+    justify-content: space-between;
+    
+}
+.screen-header__title{
+    font-size: 30px;
+    font-weight: 600;    
+}
+.screen-header__icons span {
+    margin-left: 25px;
+    position: relative;
+}
+
+.screen-homework {
+    background-color: tomato;
+    width: 5px;
+    height: 5px;
+    display: flex;
+    position: absolute; 
+    border-radius: 10px;
+    right: -5px;
+}
